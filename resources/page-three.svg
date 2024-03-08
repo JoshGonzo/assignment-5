@@ -1,0 +1,8 @@
+<svg height="210" width="400"
+    version="1.1"
+     xmlns="http://www.w3.org/2000/svg">
+  <path fill="none" stroke="green" d="M100 50 L100 200 L200 200 L200 50 Z" />
+  <circle r="5" fill="red">
+    <animateMotion dur="20s" repeatCount="indefinite" path="M100 50 L100 200 L200 200 L200 50 Z"/>
+  </circle>
+</svg>
